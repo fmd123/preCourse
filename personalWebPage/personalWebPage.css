@@ -1,0 +1,28 @@
+body{
+	background-color: lightsteelblue;
+	margin: 0;
+	/*font-family: 'Bellefair', serif;*/
+	font-family: 'Rock Salt', cursive;
+
+}
+
+#banner {
+	text-align: center;
+	height: 200px;
+	background-color: orange;
+	margin: 0;
+
+}
+
+h1{
+	padding-top: 10px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+h2{
+	margin: 0;
+	
+}
+#fancy{
+	font-style: italic;
+}
